@@ -1,0 +1,11 @@
+*.pyc
+*.csv
+*.png
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+ExMAS/spinoffs/corona/.ipynb_checkpoints/corona-checkpoint.ipynb
+ExMAS/data/graphs/Amsterdam.graphml
+ExMAS/data/.DS_Store
+ExMAS/data/corona/.DS_Store
